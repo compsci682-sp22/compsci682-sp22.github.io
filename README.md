@@ -1,4 +1,4 @@
-UMass Amherst [COMPSCI 682 Neural Networks: A Modern Introduction] 2021 Fall course website (https://compsci682-fa21.github.io/).
+UMass Amherst [COMPSCI 682 Neural Networks: A Modern Introduction] 2021 Fall course website (https://compsci682-sp22.github.io/).
 
 Forked from 2017 Fall course [COMPSCI 682 Neural Networks: A Modern Introduction](https://compsci682.github.io/).
 
