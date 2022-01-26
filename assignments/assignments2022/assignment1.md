@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /assignments/assignments2021/assignment1/
+permalink: /assignments/assignments2022/assignment1/
 ---
 
 Get the code as a zip file [here](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment1.zip). 
