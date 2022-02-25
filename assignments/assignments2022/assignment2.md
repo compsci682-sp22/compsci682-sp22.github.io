@@ -21,7 +21,8 @@ are as follows:
 
 ### Setup
 Get the code as a zip file:
-[PART 1](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2022/assignment2_pat1.zip). 
+
+[PART 1](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment2_part1.zip). 
 [PART 2](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2022/assignment2_pat2.zip)
 
 **Download data:**
