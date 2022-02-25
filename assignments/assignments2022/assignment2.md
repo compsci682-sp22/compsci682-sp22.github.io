@@ -1,7 +1,7 @@
 ---
 layout: page
 mathjax: true
-permalink: /assignments/assignments2021/assignment2/
+permalink: /assignments/assignments2022/assignment2/
 ---
 
 In this assignment you will practice writing backpropagation code, and training
@@ -20,7 +20,9 @@ are as follows:
   gain experience with training these models on data
 
 ### Setup
-Get the code as a zip file [here](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2021/assignment2.zip). 
+Get the code as a zip file:
+[PART 1](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2022/assignment2_pat1.zip). 
+[PART 2](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2022/assignment2_pat2.zip)
 
 **Download data:**
 Once you have the starter code, you will need to download the CIFAR-10 dataset.
@@ -62,7 +64,7 @@ popular update rules.
 In the notebook `BatchNormalization.ipynb` you will implement batch
 normalization, and use it to train deep fully-connected networks.
 
-### Q3: Dropout (10 points)
+<!-- ### Q3: Dropout (10 points)
 The notebook `Dropout.ipynb` will help you implement Dropout and explore
 its effects on model generalization.
 
@@ -70,12 +72,7 @@ its effects on model generalization.
 In the notebook `ConvolutionalNetworks.ipynb` you will implement several
 new layers that are commonly used in convolutional networks. You will train a
 (shallow) convolutional network on CIFAR-10, and it will then be up to you to
-train the best network that you can.
-
-### Q5: Do something extra! (10 points)
-For this last part, you will be working in either TensorFlow or PyTorch, two popular
-and powerful deep learning frameworks. **You only need to complete ONE of these two notebooks**.
-While you are welcome to explore both for your own learning, there will be no extrac credit.
+train the best network that you can. -->
 
 Open up either `PyTorch.ipynb` or `Tensorflow.ipynb`. There, you will learn how the framework
 works, culminating in training and convolutional network of your own design on CIFAR-10 to
