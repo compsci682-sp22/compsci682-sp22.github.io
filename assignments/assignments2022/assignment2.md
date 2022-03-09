@@ -23,7 +23,7 @@ are as follows:
 Get the code as a zip file:
 
 [PART 1](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment2_part1.zip). 
-[PART 2](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2022/assignment2_pat2.zip)
+[PART 2](https://github.com/compsci682-sp22/compsci682-sp22.github.io/blob/main/assignments/assignments2022/assignment2_part2.zip)
 
 **Download data:**
 Once you have the starter code, you will need to download the CIFAR-10 dataset.
@@ -55,6 +55,8 @@ After you have the CIFAR-10 data, you should start the Jupyter Notebook server f
 **NOTE:** If you are working in a virtual environment on OSX, you may encounter
 errors with matplotlib due to the [issues described here](http://matplotlib.org/faq/virtualenv_faq.html). You can work around this issue by starting the Jupyter server using the `start_jupyter_osx.sh` script from the `assignment2` directory; the script assumes that your virtual environment is named `.env`.
 
+### Part1:
+
 ### Q1: Fully-connected Neural Network (16 points)
 The notebook `FullyConnectedNets.ipynb` will introduce you to our
 modular layer design, and then use those layers to implement fully-connected
@@ -65,7 +67,9 @@ popular update rules.
 In the notebook `BatchNormalization.ipynb` you will implement batch
 normalization, and use it to train deep fully-connected networks.
 
-<!-- ### Q3: Dropout (10 points)
+### Part2:
+
+### Q3: Dropout (10 points)
 The notebook `Dropout.ipynb` will help you implement Dropout and explore
 its effects on model generalization.
 
@@ -73,7 +77,7 @@ its effects on model generalization.
 In the notebook `ConvolutionalNetworks.ipynb` you will implement several
 new layers that are commonly used in convolutional networks. You will train a
 (shallow) convolutional network on CIFAR-10, and it will then be up to you to
-train the best network that you can. -->
+train the best network that you can. NOTE: You would need to add code you wrote for part1 of this assignment in their analougus fils in codebase for part2. Specifically, you would need to add the forward and backward code you wrote for 'ReLU', 'Batchnorm' and 'Affine' layers in the 'layers.py' file in folder 'cs682' in part2 codebase.
 
 Open up either `PyTorch.ipynb` or `Tensorflow.ipynb`. There, you will learn how the framework
 works, culminating in training and convolutional network of your own design on CIFAR-10 to
@@ -81,7 +85,7 @@ get the best performance you can.
 
 ### Submitting your work
 
-**Important**. Please make sure that the submitted notebooks have been run and the cell outputs are visible.
+**Important**. Please make sure that the submitted notebooks have been run and the cell outputs are visible. Also, you shuld submit part1 and part2 seperately.
 
 Once you have completed all notebooks and filled out the necessary code, you need to follow the below instructions to submit your work:
 
