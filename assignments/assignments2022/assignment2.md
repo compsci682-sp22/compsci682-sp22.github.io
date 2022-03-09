@@ -23,7 +23,7 @@ are as follows:
 Get the code as a zip file:
 
 [PART 1](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment2_part1.zip). 
-[PART 2](https://github.com/compsci682-sp22/compsci682-sp22.github.io/blob/main/assignments/assignments2022/assignment2_part2.zip)
+[PART 2](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment2_part2.zip)
 
 **Download data:**
 Once you have the starter code, you will need to download the CIFAR-10 dataset.
