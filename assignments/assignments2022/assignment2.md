@@ -85,7 +85,9 @@ get the best performance you can.
 
 ### Submitting your work
 
-**Important**. Please make sure that the submitted notebooks have been run and the cell outputs are visible. Also, you shuld submit part1 and part2 seperately.
+**Important**. Please make sure that the submitted notebooks have been run and the cell outputs are visible. Also, you shuld submit part1 and part2 seperately. Use the following scripts for packaging your code : [Submission Scripts](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/collect_submission_scripts.zip)
+
+Dowload the the scripts from the above link and place them inside each assignment folder.
 
 Once you have completed all notebooks and filled out the necessary code, you need to follow the below instructions to submit your work:
 
