@@ -1,12 +1,10 @@
 ---
 layout: page
 mathjax: true
-permalink: /assignments/assignments2021/assignment3/
+permalink: /assignments/assignments2022/assignment3/
 ---
 
-**This assignment is due on Sunday, November 21 at 11:55pm EST.**
-
-Starter code containing Colab notebooks can be downloaded [here](https://raw.githubusercontent.com/compsci682-fa21/compsci682-fa21.github.io/master/assignments/assignments2021/assignment3.zip). Please note that you can finish the homework either using Google Colab or on your local machine.
+Starter code containing Colab notebooks can be downloaded [here](https://github.com/compsci682-sp22/compsci682-sp22.github.io/raw/main/assignments/assignments2022/assignment3.zip). Please note that you can finish the homework either using Google Colab or on your local machine.
 
 - [Setup](#setup)
 - [Goals](#goals)
@@ -77,4 +75,4 @@ To make sure everything is working properly, **remember to do a clean run ("Kern
 
 **3.** Please submit <UmassID>.zip and the pdf to Gradescope.
 
-If you run code on your local machine on Linux or macOS,  you can run the provided `collectSubmission.sh` script from `assignment1/` to produce a file `<UmassID>.zip`.
+If you run code on your local machine on Linux or macOS,  you can run the provided `collectSubmission.sh` script from `assignment3/` to produce a file `<UmassID>.zip`.
